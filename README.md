@@ -1,4 +1,5 @@
 <div align="center">
+
 <img width="100%" height = "100%" style="border-radius:44px" src="https://wallpaperaccess.com/full/2641159.gif" alt="cover" />
 </div>
 
@@ -36,7 +37,7 @@
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@434679c8-3661-488f-bbda-bf7c53fbdece"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@434679c8-3661-488f-bbda-bf7c53fbdece&custom_title=VS Code stats:&theme=tokyonight&hide_border=True&border_radius=25&bg_color=161b22"/>
 </a>
 <br>
 
@@ -44,13 +45,14 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HaseebKhalid1507&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=HaseebKhalid1507&count_private=true&show_icons=true&theme=tokyonight&count_private=True&hide_border=True&border_radius=25&bg_color=161b22" />
 </a>
+<br>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebKhalid1507&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebKhalid1507&theme=tokyonight&hide_border=True&border_radius=25&bg_color=161b22" />
 </a>
 
 
 
-<br><br><br><br>
+<br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
