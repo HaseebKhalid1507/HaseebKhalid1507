@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<img align="right" height="500" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
+<img align="right" height="450" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
 
 ###
 
