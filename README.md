@@ -31,13 +31,15 @@
 
 <br clear="both">
 
-<img align="right" height="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
+<img align="right" height="350" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
 
 ###
 
 <p align="center">📘 Currently delving into the world of Go programming.<br>☁️ Exploring the fascinating realm of Cloud Security.<br>📚 Learning Solidity for blockchain development.<br><br>In my free time, you'll find me engaged in various activities:<br><br>♟️ Playing chess to sharpen my strategic thinking.<br>🏴‍☠️ Participating in Capture The Flag (CTF) challenges for hands-on cybersecurity experience.<br>🎵 Producing music as a creative outlet.</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">I have experience with</h2>
 
