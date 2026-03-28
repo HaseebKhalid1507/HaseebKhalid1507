@@ -55,14 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebkhalid1507&theme=midnight-purple&hide_border=true" height="180" alt="streak stats" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haseebkhalid1507&theme=midnight_purple" width="100%" alt="activity graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haseebkhalid1507&theme=midnight_purple" height="160" alt="repos by language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haseebkhalid1507&theme=midnight_purple" height="160" alt="commits by language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haseebkhalid1507&theme=midnight_purple&utcOffset=-5" height="160" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haseebkhalid1507&theme=midnight_purple" width="100%" alt="contribution graph" />
 </div>
