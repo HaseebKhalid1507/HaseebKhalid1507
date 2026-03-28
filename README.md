@@ -83,6 +83,17 @@ Web vuln scanning + AWS cloud posture checks + CIS compliance. FastAPI, Docker, 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseebkhalid1507&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haseebkhalid1507&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true&order=2" height="140" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebkhalid1507&theme=midnight-purple&hide_border=true" height="180" alt="streak stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haseebkhalid1507&theme=midnight_purple" width="100%" alt="activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haseebkhalid1507&theme=midnight_purple" height="160" alt="repos by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haseebkhalid1507&theme=midnight_purple" height="160" alt="commits by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haseebkhalid1507&theme=midnight_purple&utcOffset=-5" height="160" alt="productive time" />
 </div>
