@@ -63,6 +63,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haseebkhalid1507&theme=midnight_purple" height="160" alt="repos by language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haseebkhalid1507&theme=midnight_purple" height="160" alt="commits by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haseebkhalid1507&theme=midnight_purple" height="160" alt="github stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haseebkhalid1507&theme=midnight_purple&utcOffset=-5" height="160" alt="productive time" />
 </div>
