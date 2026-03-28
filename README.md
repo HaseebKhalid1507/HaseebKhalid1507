@@ -12,44 +12,13 @@
 
 ### 🔧 What I'm Building
 
-<table>
-<tr>
-<td width="50%">
+> **[🔮 Glyph](https://github.com/HaseebKhalid1507/Glyph)** — MCP security scanner. Detects tool poisoning, credential exposure, and insecure transports in AI agent configs. → `pip install glyph-scan`
 
-**[🔮 Glyph](https://github.com/HaseebKhalid1507/Glyph)** — MCP Security Scanner
-<br>
-Detects tool poisoning, credential exposure, and insecure transports in AI agent configs. Published to PyPI.
-<br>
-`pip install glyph-scan`
+> **[🦖 VelociRAG](https://github.com/HaseebKhalid1507/VelociRAG)** — RAG engine for AI agents. 4-layer fusion search, ONNX-powered, sub-200ms, MCP-ready. 525 tests, 12K LOC. → `pip install velocirag`
 
-</td>
-<td width="50%">
+> **[🛡️ NiteSpeed](https://github.com/HaseebKhalid1507/NiteSpeed)** — Security platform for startups. Web vuln scanning + AWS cloud posture + CIS compliance. FastAPI, Docker, Redis.
 
-**[🦖 VelociRAG](https://github.com/HaseebKhalid1507/VelociRAG)** — RAG Engine for AI Agents
-<br>
-4-layer fusion search (vector + BM25 + graph + metadata). ONNX-powered, sub-200ms, MCP-ready. 525 tests, 12K LOC.
-<br>
-`pip install velocirag`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[🛡️ NiteSpeed](https://github.com/HaseebKhalid1507/NiteSpeed)** — Security Platform for Startups
-<br>
-Web vuln scanning + AWS cloud posture checks + CIS compliance. FastAPI, Docker, Redis.
-
-</td>
-<td width="50%">
-
-**🏠 Security Homelab** — Self-Hosted Infrastructure
-<br>
-20+ Docker containers, Nginx reverse proxy, WireGuard VPN, Prometheus/Grafana observability, 12-agent AI orchestration system.
-
-</td>
-</tr>
-</table>
+> **🏠 Security Homelab** — 20+ Docker containers, WireGuard VPN, Prometheus/Grafana observability, 12-agent AI orchestration system.
 
 ---
 
