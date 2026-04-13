@@ -24,7 +24,7 @@
 
 ### 🎯 About Me
 
-- 🔐 **Security Engineer** — 3 years at Clouddefense.ai (CNAPP), BugBase (AppSec/Bug Bounty)
+- 🔐 **Security Engineer** 
 - 🎓 **MS Cybersecurity & Privacy** @ NJIT (2025–2026)
 - 🏆 **CompTIA Security+** certified | **OWASP** member
 - 🐍 Python, Go, Bash, Java, JavaScript | AWS, Docker, Kubernetes, Terraform
