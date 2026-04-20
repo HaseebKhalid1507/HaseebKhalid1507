@@ -2,32 +2,35 @@
 
 <h1 align="left">Hey, I'm Haseeb 👋</h1>
 
-<p align="left"><b>Security Engineer → MS Cybersecurity @ NJIT → Building open-source security tools</b></p>
+<p align="left"><b>Security Engineer → MS Cybersecurity @ NJIT → Building AI agent infrastructure</b></p>
 
 <p align="left">
-3+ years in cloud security (CNAPP, EASM, Zero Trust) and application security. Now building open-source tools at the intersection of security and AI agents.
+3+ years in cloud security (CNAPP, EASM, Zero Trust) and application security. Now building open-source infrastructure for AI agents — runtimes, memory, search, and security tooling.
 </p>
 
 ---
 
 ### 🔧 What I'm Building
 
+> **[⚡ SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI)** — Rust-native AI agent runtime. Sub-100ms startup, named subagent dispatch, autonomous 24/7 agents, 18 themes, 90%+ prompt cache hit rate. The terminal agent that boots before your Node binary finishes `require()`-ing. `cargo build --release`
+
+> **[🦖 VelociRAG](https://github.com/HaseebKhalid1507/VelociRAG)** — RAG engine for AI agents. 4-layer fusion search (vector + BM25 + graph + metadata), ONNX-powered, sub-200ms warm, MCP-ready. 525 tests, 12K LOC. → `pip install velocirag`
+
 > **[🔮 Glyph](https://github.com/HaseebKhalid1507/Glyph)** — MCP security scanner. Detects tool poisoning, credential exposure, and insecure transports in AI agent configs. → `pip install glyph-scan`
 
-> **[🦖 VelociRAG](https://github.com/HaseebKhalid1507/VelociRAG)** — RAG engine for AI agents. 4-layer fusion search, ONNX-powered, sub-200ms, MCP-ready. 525 tests, 12K LOC. → `pip install velocirag`
+> **[🧠 Memkoshi](https://github.com/HaseebKhalid1507/Memkoshi)** — Agent memory library. WAL-backed persistence, incremental indexing, Stelline intelligence bridge. → `pip install memkoshi`
 
 > **[🛡️ NiteSpeed](https://github.com/HaseebKhalid1507/NiteSpeed)** — Security platform for startups. Web vuln scanning + AWS cloud posture + CIS compliance. FastAPI, Docker, Redis.
-
-> **🏠 Security Homelab** — 20+ Docker containers, WireGuard VPN, Prometheus/Grafana observability, 12-agent AI orchestration system.
 
 ---
 
 ### 🎯 About Me
 
-- 🔐 **Security Engineer** 
+- 🔐 **Security Engineer** — cloud security, appsec, agent security
 - 🎓 **MS Cybersecurity & Privacy** @ NJIT (2025–2026)
+- 🏠 **Homelab** — 22+ Docker containers, WireGuard VPN, Prometheus/Grafana/Loki observability, Pi-hole DNS, 20-agent AI orchestration system on 8GB RAM
 - 🏆 **CompTIA Security+** certified | **OWASP** member
-- 🐍 Python, Go, Bash, Java, JavaScript | AWS, Docker, Kubernetes, Terraform
+- 🦀 Rust, Python, Go, Bash, TypeScript | AWS, Docker, Kubernetes, Terraform
 
 ---
 
