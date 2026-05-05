@@ -1,15 +1,12 @@
 <div align="center">
-<br>
 
 <img src="header.png" width="100%" />
 
-<br><br><br>
+<br><br>
 
 I build infrastructure for AI agents.<br>
 Runtimes. Memory. Search. Security.<br>
 Open source. From scratch. In Rust.
-
-<br>
 
 </div>
 
