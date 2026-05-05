@@ -47,6 +47,21 @@ cargo install synaps
 
 <img src="https://streak-stats.demolab.com/?user=haseebkhalid1507&theme=black-ice&hide_border=true&background=0d1117" height="150" />
 
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebkhalid1507&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1b27&hide_border=true" width="95%" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebkhalid1507&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" height="150" />
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaseebKhalid1507/HaseebKhalid1507/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/HaseebKhalid1507/HaseebKhalid1507/output/github-snake-dark.svg" width="100%" />
+</picture>
+
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/-haseebkhalid1507-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseebkhalid1507/)
