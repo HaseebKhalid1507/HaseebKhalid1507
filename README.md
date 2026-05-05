@@ -1,69 +1,63 @@
-<br clear="both">
+<div align="center">
+<br>
 
-<h1 align="left">Hey, I'm Haseeb 👋</h1>
+<img src="https://img.shields.io/badge/HASEEB_KHALID-000000?style=for-the-badge&labelColor=000000&color=000000" height="40" />
 
-<p align="left"><b>Security Engineer → MS Cybersecurity @ NJIT → Building AI agent infrastructure</b></p>
+<br><br>
 
-<p align="left">
-3+ years in cloud security (CNAPP, EASM, Zero Trust) and application security. Now building open-source infrastructure for AI agents — runtimes, memory, search, and security tooling.
-</p>
-
----
-
-### 🔧 What I'm Building
-
-> **[⚡ SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI)** — Rust-native AI agent runtime. Sub-100ms startup, named subagent dispatch, autonomous 24/7 agents, 18 themes, 90%+ prompt cache hit rate. The terminal agent that boots before your Node binary finishes `require()`-ing. `cargo build --release`
-
-> **[🦖 VelociRAG](https://github.com/HaseebKhalid1507/VelociRAG)** — RAG engine for AI agents. 4-layer fusion search (vector + BM25 + graph + metadata), ONNX-powered, sub-200ms warm, MCP-ready. 525 tests, 12K LOC. → `pip install velocirag`
-
-> **[🔮 Glyph](https://github.com/HaseebKhalid1507/Glyph)** — MCP security scanner. Detects tool poisoning, credential exposure, and insecure transports in AI agent configs. → `pip install glyph-scan`
-
-> **[🧠 Memkoshi](https://github.com/HaseebKhalid1507/Memkoshi)** — Agent memory library. WAL-backed persistence, incremental indexing, Stelline intelligence bridge. → `pip install memkoshi`
-
-> **[🛡️ NiteSpeed](https://github.com/HaseebKhalid1507/NiteSpeed)** — Security platform for startups. Web vuln scanning + AWS cloud posture + CIS compliance. FastAPI, Docker, Redis.
-
----
-
-### 🎯 About Me
-
-- 🔐 **Security Engineer** — cloud security, appsec, agent security
-- 🎓 **MS Cybersecurity & Privacy** @ NJIT (2025–2026)
-- 🏠 **Homelab** — 22+ Docker containers, WireGuard VPN, Prometheus/Grafana/Loki observability, Pi-hole DNS, 20-agent AI orchestration system on 8GB RAM
-- 🏆 **CompTIA Security+** certified | **OWASP** member
-- 🦀 Rust, Python, Go, Bash, TypeScript | AWS, Docker, Kubernetes, Terraform
-
----
-
-### 📫 Connect
-
-<div align="left">
-  <a href="https://linkedin.com/in/haseebkhalid1507/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="32" alt="linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://haseebkhalid1507.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white" height="28" alt="portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:haseebkhalid1507@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28" alt="email" />
-  </a>
-</div>
+I build infrastructure for AI agents.<br>
+Runtimes. Memory. Search. Security.<br>
+Open source. From scratch. In Rust.
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebkhalid1507&theme=midnight-purple&hide_border=true" height="180" alt="streak stats" />
 </div>
+
+---
+
+> **I spent 3 years breaking into cloud systems.** EASM, Zero Trust, pentesting — the works.
+> Then I started building the systems that AI agents live inside, and realized
+> nobody was thinking about securing them. So now I do both.
+
+---
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haseebkhalid1507&theme=midnight_purple" width="100%" alt="activity graph" />
-</div>
+[**synaps**](https://github.com/HaseebKhalid1507/SynapsCLI) `rust` — the runtime. 70K lines. 1,074 tests. One binary that orchestrates 20 agents autonomously, 24/7, on a headless server with 8GB of RAM. Boots in 3ms.
+
+[**velocirag**](https://github.com/HaseebKhalid1507/VelociRAG) `python` — the search. 4-layer retrieval fusion. No PyTorch, no GPU, no API keys. Sub-200ms. Published on PyPI, AUR, and the MCP Registry.
+
+[**glyph**](https://github.com/HaseebKhalid1507/Glyph) `python` — the scanner. Finds tool poisoning, credential leaks, and prompt injection in MCP configs. 83% detection rate. Zero false positives. Validated against real CVEs.
+
+[**memkoshi**](https://github.com/HaseebKhalid1507/memkoshi) `python` — the memory. HMAC-SHA256 signed. Staged review. Semantic search. Agents don't forget.
+
+[**stelline**](https://github.com/HaseebKhalid1507/Stelline) `python` — the bridge. Turns raw conversation transcripts into structured, searchable knowledge.
+
+<br>
+
+---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haseebkhalid1507&theme=midnight_purple" height="160" alt="github stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haseebkhalid1507&theme=midnight_purple" height="160" alt="repos by language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haseebkhalid1507&theme=midnight_purple&utcOffset=-5" height="160" alt="productive time" />
+
+```
+cargo install synaps
+```
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/-haseebkhalid1507-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseebkhalid1507/)
+&nbsp;&nbsp;
+[![Site](https://img.shields.io/badge/-portfolio-000?style=flat&logo=github&logoColor=white)](https://haseebkhalid1507.github.io/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/-email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:haseebkhalid1507@gmail.com)
+
+<br>
+
+MS Cybersecurity @ NJIT · Security+ · OWASP<br>
+Rust · Python · Go · AWS · Docker · Terraform
+
+<br>
+
+<sub>*Wake up, samurai. We have infrastructure to build.*</sub>
+
 </div>
