@@ -19,7 +19,12 @@ Open source. From scratch. In Rust.
 <br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebkhalid1507&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1b27&hide_border=true" width="95%" />
+
+[![SynapsCLI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=haseebkhalid1507&repo=SynapsCLI&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/HaseebKhalid1507/SynapsCLI)
+[![VelociRAG](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=haseebkhalid1507&repo=VelociRAG&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/HaseebKhalid1507/VelociRAG)
+[![Glyph](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=haseebkhalid1507&repo=Glyph&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/HaseebKhalid1507/Glyph)
+[![Memkoshi](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=haseebkhalid1507&repo=memkoshi&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/HaseebKhalid1507/memkoshi)
+
 </div>
 
 ---
