@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 
-# Hi, I'm Haseeb
+<img src="header.png" width="100%" />
 
 <br>
 
