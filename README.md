@@ -1,9 +1,9 @@
 <div align="center">
 <br>
 
-<img src="https://img.shields.io/badge/HASEEB_KHALID-000000?style=for-the-badge&labelColor=000000&color=000000" height="40" />
+# Haseeb Khalid
 
-<br><br>
+<br>
 
 I build infrastructure for AI agents.<br>
 Runtimes. Memory. Search. Security.<br>
