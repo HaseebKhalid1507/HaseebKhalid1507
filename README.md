@@ -45,7 +45,7 @@ cargo install synaps
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebkhalid1507&theme=black-ice&hide_border=true&background=0d1117" height="150" />
+<img src="https://streak-stats.demolab.com/?user=haseebkhalid1507&theme=black-ice&hide_border=true&background=0d1117" height="150" />
 
 <br><br>
 
