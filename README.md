@@ -1,4 +1,3 @@
-<br><br>
 <div align="center">
 <img src="header.png" width="100%" />
 <br><br><br>
