@@ -23,18 +23,6 @@ Open source. From scratch. In Rust.
 
 <br>
 
-[**synaps**](https://github.com/HaseebKhalid1507/SynapsCLI) `rust` — the runtime. 70K lines. 1,074 tests. One binary that orchestrates 20 agents autonomously, 24/7, on a headless server with 8GB of RAM. Boots in 3ms.
-
-[**velocirag**](https://github.com/HaseebKhalid1507/VelociRAG) `python` — the search. 4-layer retrieval fusion. No PyTorch, no GPU, no API keys. Sub-200ms. Published on PyPI, AUR, and the MCP Registry.
-
-[**glyph**](https://github.com/HaseebKhalid1507/Glyph) `python` — the scanner. Finds tool poisoning, credential leaks, and prompt injection in MCP configs. 83% detection rate. Zero false positives. Validated against real CVEs.
-
-[**memkoshi**](https://github.com/HaseebKhalid1507/memkoshi) `python` — the memory. HMAC-SHA256 signed. Staged review. Semantic search. Agents don't forget.
-
-[**stelline**](https://github.com/HaseebKhalid1507/Stelline) `python` — the bridge. Turns raw conversation transcripts into structured, searchable knowledge.
-
-<br>
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebkhalid1507&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1b27&hide_border=true" width="95%" />
 </div>
