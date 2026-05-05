@@ -1,8 +1,6 @@
 <div align="center">
-
 <img src="header.png" width="100%" />
 
-<br><br>
 
 I build infrastructure for AI agents.<br>
 Runtimes. Memory. Search. Security.<br>
