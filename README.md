@@ -36,8 +36,6 @@ cargo install synaps
 
 <br><br>
 
-<div style="overflow:hidden;height:120px;">
-<img width="100%" src="https://wallpaperaccess.com/full/2641159.gif" style="object-fit:cover;object-position:center;height:120px;width:100%;" />
-</div>
+<img width="100%" src="https://wallpaperaccess.com/full/2641159.gif" />
 
 </div>
