@@ -11,8 +11,6 @@ Open source. From scratch. In Rust.
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haseebkhalid1507&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" height="140" />
-
 </div>
 
 ---
