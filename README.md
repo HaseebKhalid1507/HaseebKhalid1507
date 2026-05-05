@@ -53,14 +53,7 @@ cargo install synaps
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebkhalid1507&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" height="150" />
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaseebKhalid1507/HaseebKhalid1507/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/HaseebKhalid1507/HaseebKhalid1507/output/github-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haseebkhalid1507&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" height="150" />
 
 <br><br>
 
