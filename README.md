@@ -17,10 +17,6 @@ Blaze way down the rebel path.
 
 <br>
 
-Newark, NJ · <a href="mailto:haseebkhalid1507@gmail.com">mail</a>
-
-<br>
-
 ```console
 $ cargo install synaps
 ```
