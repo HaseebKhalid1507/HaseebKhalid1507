@@ -5,7 +5,7 @@
 <br>
 
 I build things, I break them,<br>
-and blaze way down the rebel path.
+Blaze way down the rebel path.
 
 <br>
 
